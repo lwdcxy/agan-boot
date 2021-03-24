@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/agan-boot-async/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agan-boot-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agan-boot-config-yml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agan-boot-config-yml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agan-boot-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agan-boot-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agan-boot-hellworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agan-boot-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agan-boot-lombok/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agan-boot-response/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agan-boot-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agan-boot-validator/src/main/java" charset="UTF-8" />
+  </component>
+</project>

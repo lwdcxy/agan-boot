@@ -1,0 +1,65 @@
+2021-03-18 00:04:34.726  INFO 942 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-18 00:07:12.006  INFO 977 --- [main] com.agan.boot.Application                : Starting Application on Lwdcxys-iMac.local with PID 977 (/Users/lwdcxy/IdeaProjects/agan-boot/agan-boot-async/target/classes started by lwdcxy in /Users/lwdcxy/IdeaProjects/agan-boot)
+2021-03-18 00:07:12.009 DEBUG 977 --- [main] com.agan.boot.Application                : Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2021-03-18 00:07:12.010  INFO 977 --- [main] com.agan.boot.Application                : No active profile set, falling back to default profiles: default
+2021-03-18 00:07:12.660  INFO 977 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-03-18 00:07:12.677  INFO 977 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-18 00:07:12.678  INFO 977 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2021-03-18 00:07:12.736  INFO 977 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-18 00:07:12.736  INFO 977 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 685 ms
+2021-03-18 00:07:12.892  INFO 977 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-18 00:26:36.641  INFO 989 --- [main] com.agan.boot.Application                : Starting Application on Lwdcxys-iMac.local with PID 989 (/Users/lwdcxy/IdeaProjects/agan-boot/agan-boot-async/target/classes started by lwdcxy in /Users/lwdcxy/IdeaProjects/agan-boot)
+2021-03-18 00:26:36.643 DEBUG 989 --- [main] com.agan.boot.Application                : Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2021-03-18 00:26:36.644  INFO 989 --- [main] com.agan.boot.Application                : No active profile set, falling back to default profiles: default
+2021-03-18 00:26:37.430  INFO 989 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-03-18 00:26:37.448  INFO 989 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-18 00:26:37.449  INFO 989 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2021-03-18 00:26:37.513  INFO 989 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-18 00:26:37.514  INFO 989 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 818 ms
+2021-03-18 00:26:37.724  INFO 989 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-18 00:26:37.898  INFO 989 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-18 00:26:37.901  INFO 989 --- [main] com.agan.boot.Application                : Started Application in 1.559 seconds (JVM running for 2.161)
+2021-03-18 00:26:57.067  INFO 989 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-18 00:26:57.067  INFO 989 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-03-18 00:26:57.073  INFO 989 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2021-03-18 00:26:57.091  INFO 989 --- [http-nio-8080-exec-1] com.agan.boot.controller.TestController  : ----注册用户----
+2021-03-18 00:27:02.115  INFO 989 --- [task-1] com.agan.boot.service.ScoreService       : -----处理积分-----
+2021-03-18 00:27:21.818  INFO 989 --- [http-nio-8080-exec-2] com.agan.boot.controller.TestController  : ----注册用户----
+2021-03-18 00:27:26.823  INFO 989 --- [task-2] com.agan.boot.service.ScoreService       : -----处理积分-----
+2021-03-18 00:30:36.633  INFO 989 --- [http-nio-8080-exec-5] com.agan.boot.controller.TestController  : ----注册用户----
+2021-03-18 00:30:41.638  INFO 989 --- [task-3] com.agan.boot.service.ScoreService       : -----处理积分-----
+2021-03-18 00:38:56.294  INFO 989 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-18 00:42:25.873  INFO 1009 --- [main] com.agan.boot.Application                : Starting Application on Lwdcxys-iMac.local with PID 1009 (/Users/lwdcxy/IdeaProjects/agan-boot/agan-boot-async/target/classes started by lwdcxy in /Users/lwdcxy/IdeaProjects/agan-boot)
+2021-03-18 00:42:25.875 DEBUG 1009 --- [main] com.agan.boot.Application                : Running with Spring Boot v2.1.8.RELEASE, Spring v5.1.9.RELEASE
+2021-03-18 00:42:25.876  INFO 1009 --- [main] com.agan.boot.Application                : No active profile set, falling back to default profiles: default
+2021-03-18 00:42:26.626  INFO 1009 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-03-18 00:42:26.648  INFO 1009 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-18 00:42:26.648  INFO 1009 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.24]
+2021-03-18 00:42:26.727  INFO 1009 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-18 00:42:26.727  INFO 1009 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 806 ms
+2021-03-18 00:42:26.803  INFO 1009 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-03-18 00:42:26.806  INFO 1009 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'scorePoolTaskExecutor'
+2021-03-18 00:42:27.142  INFO 1009 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-18 00:42:27.145  INFO 1009 --- [main] com.agan.boot.Application                : Started Application in 1.567 seconds (JVM running for 2.14)
+2021-03-18 00:42:40.647  INFO 1009 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-18 00:42:40.648  INFO 1009 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-03-18 00:42:40.653  INFO 1009 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2021-03-18 00:42:40.682  INFO 1009 --- [http-nio-8080-exec-1] com.agan.boot.controller.TestController  : ----注册用户----
+2021-03-18 00:42:45.693  INFO 1009 --- [score-1] com.agan.boot.service.ScoreService       : -----处理积分-----
+2021-03-18 00:42:53.601  INFO 1009 --- [http-nio-8080-exec-3] com.agan.boot.controller.TestController  : ----注册用户2----
+2021-03-18 00:42:58.606  INFO 1009 --- [score-2] com.agan.boot.service.ScoreService       : -----处理积分-----
+2021-03-18 00:43:10.118  INFO 1009 --- [http-nio-8080-exec-4] com.agan.boot.controller.TestController  : ----注册用户2----
+2021-03-18 00:43:12.249  INFO 1009 --- [http-nio-8080-exec-6] com.agan.boot.controller.TestController  : ----注册用户2----
+2021-03-18 00:43:13.907  INFO 1009 --- [http-nio-8080-exec-8] com.agan.boot.controller.TestController  : ----注册用户2----
+2021-03-18 00:43:15.120  INFO 1009 --- [score-3] com.agan.boot.service.ScoreService       : -----处理积分-----
+2021-03-18 00:43:15.440  INFO 1009 --- [http-nio-8080-exec-10] com.agan.boot.controller.TestController  : ----注册用户2----
+2021-03-18 00:43:16.897  INFO 1009 --- [http-nio-8080-exec-2] com.agan.boot.controller.TestController  : ----注册用户2----
+2021-03-18 00:43:17.253  INFO 1009 --- [score-4] com.agan.boot.service.ScoreService       : -----处理积分-----
+2021-03-18 00:43:18.825  INFO 1009 --- [http-nio-8080-exec-4] com.agan.boot.controller.TestController  : ----注册用户2----
+2021-03-18 00:43:18.911  INFO 1009 --- [score-5] com.agan.boot.service.ScoreService       : -----处理积分-----
+2021-03-18 00:43:20.445  INFO 1009 --- [score-6] com.agan.boot.service.ScoreService       : -----处理积分-----
+2021-03-18 00:43:20.571  INFO 1009 --- [http-nio-8080-exec-6] com.agan.boot.controller.TestController  : ----注册用户2----
+2021-03-18 00:43:21.898  INFO 1009 --- [score-7] com.agan.boot.service.ScoreService       : -----处理积分-----
+2021-03-18 00:43:23.827  INFO 1009 --- [score-8] com.agan.boot.service.ScoreService       : -----处理积分-----
+2021-03-18 00:43:25.572  INFO 1009 --- [score-9] com.agan.boot.service.ScoreService       : -----处理积分-----
+2021-03-18 01:23:30.597  INFO 1009 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'scorePoolTaskExecutor'

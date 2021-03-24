@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/agan-boot.iml" filepath="$PROJECT_DIR$/agan-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-async/agan-boot-async.iml" filepath="$PROJECT_DIR$/agan-boot-async/agan-boot-async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-commons/agan-boot-commons.iml" filepath="$PROJECT_DIR$/agan-boot-commons/agan-boot-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-config/agan-boot-config.iml" filepath="$PROJECT_DIR$/agan-boot-config/agan-boot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-config-yml/agan-boot-config-yml.iml" filepath="$PROJECT_DIR$/agan-boot-config-yml/agan-boot-config-yml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-exception/agan-boot-exception.iml" filepath="$PROJECT_DIR$/agan-boot-exception/agan-boot-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-hellworld/agan-boot-hellworld.iml" filepath="$PROJECT_DIR$/agan-boot-hellworld/agan-boot-hellworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-log/agan-boot-log.iml" filepath="$PROJECT_DIR$/agan-boot-log/agan-boot-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-lombok/agan-boot-lombok.iml" filepath="$PROJECT_DIR$/agan-boot-lombok/agan-boot-lombok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-response/agan-boot-response.iml" filepath="$PROJECT_DIR$/agan-boot-response/agan-boot-response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-swagger/agan-boot-swagger.iml" filepath="$PROJECT_DIR$/agan-boot-swagger/agan-boot-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agan-boot-validator/agan-boot-validator.iml" filepath="$PROJECT_DIR$/agan-boot-validator/agan-boot-validator.iml" />
+    </modules>
+  </component>
+</project>
